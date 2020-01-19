@@ -2,7 +2,7 @@
 
 ### 写在前面
 
-`redux`是什么以及能干什么，请参考[Redux](https://www.redux.org.cn/docs/introduction/Motivation.html)，在我看来`redux`的核心思想就是`通过强约束性的方式里管理共享状态`
+`redux`是什么以及能干什么，请参考[Redux](https://www.redux.org.cn/docs/introduction/Motivation.html)，在我看来`redux`的核心思想就是`通过强约束性的方式管理共享状态`
 
 ### 开始
 
